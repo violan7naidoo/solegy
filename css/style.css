@@ -694,7 +694,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.4s;
 }
 .project-content .col-forth .project:after {
-  position: absolute;
+  position:relative;
   top: 0;
   bottom: 0;
   left: 0;
