@@ -47,7 +47,7 @@ body {
 }
 
 a {
-  color: #fce519;
+  color: #117205;
   color: #1b1b1b;
 
   
@@ -56,7 +56,8 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #fce519;
+  color: #117205;
+  color: #117205;
   outline: none;
   text-decoration: none;
 }
@@ -74,17 +75,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #fce519;
+  background: #117205;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #fce519;
+  background: #117205;
 }
 
 ::selection {
   color: #fff;
-  background: #fce519;
+  background: #117205;
 }
 
 .fh5co-nav {
@@ -136,7 +137,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Work Sans", Arial, sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #fce519;
+  color: #117205;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -234,7 +235,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a span {
-  background: #fce519;
+  background: #117205;
   padding: 4px 20px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -346,7 +347,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(87, 138, 74, 0.9);
+  background: rgba(115, 143, 39, 0.9);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
@@ -447,7 +448,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #fce519;
+  color: #117205;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -466,7 +467,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #fce519;
+  color: #117205;
   position: absolute;
   left: 0;
   top: .05em;
@@ -545,7 +546,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 30px;
-  background: #fce519 !important;
+  background: #117205 !important;
   color: #fff;
   border: none !important;
   font-size: 18px;
@@ -553,7 +554,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
-  background: #fce519 !important;
+  background: #117205 !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -633,7 +634,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .feature-center .icon i {
   font-size: 60px;
-  color: #fce519;
+  color: #117205;
 }
 .feature-center .icon2 {
   float: left;
@@ -646,7 +647,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .feature-center h3 {
   font-size: 22px;
-  color: #fce519 !important;
+  color: #117205 !important;
 }
 
 .project-content {
@@ -777,7 +778,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fhco-cta-block {
-  border: 2px solid #fce519;
+  border: 2px solid #117205;
   padding: 30px;
   margin-bottom: 30px;
   float: left;
@@ -786,7 +787,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fhco-cta-block h2 {
   font-size: 20px;
   margin-bottom: 20px;
-  color: #fce519;
+  color: #117205;
 }
 .fhco-cta-block p {
   line-height: 1.5;
@@ -843,7 +844,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-testimonial {
+  
+  
   background: rgb(44, 240, 37);
+  background: rgb(226, 240, 37);
 }
 #fh5co-testimonial .testimony-slide {
   text-align: center;
@@ -938,7 +942,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #fce519;
+  background: #117205;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -955,7 +959,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-footer {
+  
+  
   background: rgb(44, 240, 37);
+  background: rgb(226, 240, 37);
+
 }
 #fh5co-footer .fh5co-footer-links {
   padding: 0;
@@ -1248,21 +1256,21 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #fce519;
+  background: #117205;
   color: #fff;
-  border: 2px solid #fce519;
+  border: 2px solid #117205;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #fcea4e !important;
-  border-color: #fcea4e !important;
+  background: #0c5302 !important;
+  border-color: #0c5302 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #fce519;
-  border: 2px solid #fce519;
+  color: #117205;
+  border: 2px solid #117205;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #fce519;
+  background: #117205;
   color: #fff;
 }
 
@@ -1324,9 +1332,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-danger {
-  background: #fcea4e;
+  background: #0c5302;
   color: #fff;
-  border: 2px solid #fcea4e;
+  border: 2px solid #0c5302;
 }
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active {
   background: #d43f3a !important;
@@ -1334,11 +1342,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-danger.btn-outline {
   background: transparent;
-  color: #fcea4e;
-  border: 2px solid #fcea4e;
+  color: #0c5302;
+  border: 2px solid #0c5302;
 }
 .btn-danger.btn-outline:hover, .btn-danger.btn-outline:focus, .btn-danger.btn-outline:active {
-  background: #fcea4e;
+  background: #0c5302;
   color: #fff;
 }
 
@@ -1392,7 +1400,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #fce519;
+  border-color: #117205;
 }
 
 .row-pb-md {
@@ -1423,6 +1431,8 @@ body {
   line-height: 1.7;
   color: #000;
   background: rgb(44, 240, 37);
+  background: rgb(238, 255, 0);
+  
 }
 
 .fh5co-heading h3{
