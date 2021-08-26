@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color: #117205;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
@@ -162,14 +162,14 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 13px;
   padding: 30px 15px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: #117205;
   letter-spacing: 2px;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: white;
+  color: rgb(229, 245, 8);
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
 }
 .fh5co-nav ul li.active > a {
-  color: #fff !important;
+  color: rgb(252, 247, 0) !important;
 }
 
 #fh5co-header,
